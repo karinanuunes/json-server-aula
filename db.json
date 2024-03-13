@@ -1,0 +1,30 @@
+{
+  "churrasco": [
+    {
+      "criancas": 5,
+      "mulheres": 5,
+      "data": "2024-03-14T03:00:00.000Z",
+      "homens": 5,
+      "id": "3a024f93-0033-449e-9b7c-befc3c8f2b57",
+      "totalPessoas": 15,
+      "carnes": 5,
+      "paoDeAlho": 25,
+      "carvao": 15,
+      "refrigerantes": 3,
+      "cerveja": 30
+    },
+    {
+      "criancas": 22,
+      "mulheres": 22,
+      "data": "2024-03-21T03:00:00.000Z",
+      "homens": 22,
+      "id": "d4d468c6-b36a-4d71-8ad7-de0128c75605",
+      "totalPessoas": 66,
+      "carnes": 21,
+      "paoDeAlho": 110,
+      "carvao": 66,
+      "refrigerantes": 14,
+      "cerveja": 132
+    }
+  ]
+}
